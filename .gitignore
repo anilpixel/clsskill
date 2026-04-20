@@ -1,0 +1,3 @@
+.env.clscli.local
+tools/**/node_modules
+tools/**/dist
